@@ -67,8 +67,8 @@ Expand marketing initiatives in top-performing states.
 Improve order fulfillment processes to reduce returns and cancellations.
 Dashboard Preview
 
-Insert a screenshot of the dashboard here.
-
+Inserting the screenshot of the dashboard here.
+https://github.com/sandhiyalakshmi130-dot/Data-Analysis/blob/main/Dashboard_1.png
 Super-Store-Sales-Analysis/
 │
 ├── Dashboard.xlsx
