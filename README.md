@@ -98,7 +98,7 @@ Inserting the screenshot of the dashboard here.
 
 https://github.com/sandhiyalakshmi130-dot/Data-Analysis/blob/main/Dashboard_1.png
 
-
+https://github.com/sandhiyalakshmi130-dot/Data-Analysis/blob/main/Dashboard_2.png
 
 
 **Project Structure**
