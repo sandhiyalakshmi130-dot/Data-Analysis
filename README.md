@@ -100,6 +100,8 @@ https://github.com/sandhiyalakshmi130-dot/Data-Analysis/blob/main/Dashboard_1.pn
 
 https://github.com/sandhiyalakshmi130-dot/Data-Analysis/blob/main/Dashboard_2.png
 
+https://github.com/sandhiyalakshmi130-dot/Data-Analysis/blob/main/Super%20Store%20Data_Analysis.xlsx
+
 
 **Project Structure**
 
